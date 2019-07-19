@@ -1,0 +1,7 @@
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\bin\Debug\Pp_urok01_dz.exe.config
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\bin\Debug\Pp_urok01_dz.exe
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\bin\Debug\Pp_urok01_dz.pdb
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\obj\Debug\Pp_urok01_dz.csprojAssemblyReference.cache
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\obj\Debug\Pp_urok01_dz.csproj.CoreCompileInputs.cache
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\obj\Debug\Pp_urok01_dz.exe
+C:\Users\РахимовС\source\repos\Pp_urok01_dz\Pp_urok01_dz\obj\Debug\Pp_urok01_dz.pdb
